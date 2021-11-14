@@ -1,6 +1,6 @@
 [Instruções/Instructions](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
 
-[Resultado/Result]()
+[Resultado/Result](https://leonardoth.github.io/Manage-landing-page/)
 
 ## Brief
 
